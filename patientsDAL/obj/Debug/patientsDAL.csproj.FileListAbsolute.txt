@@ -1,0 +1,11 @@
+C:\Users\Manar\source\repos\patientsMVC\patientsDAL\bin\Debug\patientsDAL.dll
+C:\Users\Manar\source\repos\patientsMVC\patientsDAL\bin\Debug\patientsDAL.pdb
+C:\Users\Manar\source\repos\patientsMVC\patientsDAL\obj\Debug\patientsDAL.csprojAssemblyReference.cache
+C:\Users\Manar\source\repos\patientsMVC\patientsDAL\obj\Debug\patientsDAL.csproj.CoreCompileInputs.cache
+C:\Users\Manar\source\repos\patientsMVC\patientsDAL\obj\Debug\patientsDAL.dll
+C:\Users\Manar\source\repos\patientsMVC\patientsDAL\obj\Debug\patientsDAL.pdb
+M:\learning\08_patientsMVC\patientsDAL\bin\Debug\patientsDAL.dll
+M:\learning\08_patientsMVC\patientsDAL\bin\Debug\patientsDAL.pdb
+M:\learning\08_patientsMVC\patientsDAL\obj\Debug\patientsDAL.csproj.CoreCompileInputs.cache
+M:\learning\08_patientsMVC\patientsDAL\obj\Debug\patientsDAL.dll
+M:\learning\08_patientsMVC\patientsDAL\obj\Debug\patientsDAL.pdb
